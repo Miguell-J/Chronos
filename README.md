@@ -10,7 +10,10 @@
   <i>Hackable. Transparent. Educational. Powerful.</i>
 </p>
 
-![](/ch.png)
+<div align="center">
+  
+![](/Chronos_logo.png)
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" />
