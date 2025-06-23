@@ -56,7 +56,7 @@ Whether you're a hacker, student, researcher, or engineer — Chronos is your pr
 | `show-ref`           | Show all references in the repository                           |
 | `check-ignore`       | Evaluate `.gitignore` rules                                     |
 | `ls-files`           | List all staged files                                           |
-| **`branch`**(comming soon)         | Create, delete and list branches                                |
+| **`branch`**         | Create, delete and list branches                                |
 | **`merge`**(comming soon)          | Perform fast-forward or 3-way merges                            |
 | **`snapshot`**(comming soon)       | Take environment snapshots (pip, OS, env vars, etc.)            |
 
@@ -119,7 +119,7 @@ chronos add main.py
 chronos commit -m "Initial commit"
 
 # Create and switch branches
-chronos branch dev (comming soon)
+chronos branch dev
 chronos checkout dev
 
 # Merge back into master
