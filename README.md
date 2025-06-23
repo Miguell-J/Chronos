@@ -144,21 +144,6 @@ chronos snapshot -m "AI experiment environment" (comming soon)
 
 ---
 
-## 🧠 Why Use Chronos?
-
-| Feature             | Git     | Chronos        |
-| ------------------- | ------- | -------------- |
-| Language            | C       | Python         |
-| Hackable            | ❌       | ✅              |
-| Learnable Internals | ❌       | ✅ step-by-step |
-| Snapshots           | ❌       | ✅ built-in     |
-| Custom Commands     | Limited | Infinite       |
-| Ideal for education | ❌       | ✅              |
-
-Chronos was born to **educate**, **experiment**, and **push the boundaries** of version control.
-
----
-
 ## 🧪 For Developers & Hackers
 
 The source code is fully modular and readable. You can:
