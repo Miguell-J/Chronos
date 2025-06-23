@@ -12,7 +12,7 @@
 
 <div align="center">
   
-![](/Chronos_logo.png)
+![](/Chronos.svg)
 </div>
 
 <p align="center">
